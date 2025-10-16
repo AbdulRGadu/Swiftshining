@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- 
+    =====================================================================
+    SWIFT SHINING PATH LIMITED - IMAGE SITEMAP
+    =====================================================================
+    Purpose: Enhanced Google Image Search Visibility
+    Last Updated: October 16, 2025
+    Focus: Brand Assets, Service Images, Company Visuals
+    =====================================================================
+  -->
+
+  <!-- Homepage Images -->
+  <url>
+    <loc>https://www.swiftshiningpath.com/</loc>
+    
+    <!-- Company Logo -->
+    <image:image>
+      <image:loc>https://www.swiftshiningpath.com/assets/images/logo.png</image:loc>
+      <image:title>Swift Shining Path Limited Logo</image:title>
+      <image:caption>Professional logistics and supply chain management company logo - Swift Shining Path Limited</image:caption>
+    </image:image>
+    
+    <!-- Logo Cropped -->
+    <image:image>
+      <image:loc>https://www.swiftshiningpath.com/assets/images/logo-cropped.png</image:loc>
+      <image:title>Swift Shining Path Company Icon</image:title>
+      <image:caption>Swift Shining Path Limited brand icon for logistics services</image:caption>
+    </image:image>
+    
+    <!-- Logo Text -->
+    <image:image>
+      <image:loc>https://www.swiftshiningpath.com/assets/images/logo-text.png</image:loc>
+      <image:title>Swift Shining Path Limited Brand Name</image:title>
+      <image:caption>Swift Shining Path Limited - Logistics Excellence Since 2022</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Services Page Images -->
+  <url>
+    <loc>https://www.swiftshiningpath.com/services.html</loc>
+    
+    <!-- Note: Add actual service images here when available -->
+    <image:image>
+      <image:loc>https://www.swiftshiningpath.com/assets/images/logo.png</image:loc>
+      <image:title>Swift Shining Path Logistics Services</image:title>
+      <image:caption>Comprehensive freight forwarding, customs clearing, and warehousing solutions</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About Page Images -->
+  <url>
+    <loc>https://www.swiftshiningpath.com/about.html</loc>
+    
+    <image:image>
+      <image:loc>https://www.swiftshiningpath.com/assets/images/logo.png</image:loc>
+      <image:title>About Swift Shining Path Limited</image:title>
+      <image:caption>Leading Nigerian logistics company established in 2022</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Contact Page Images -->
+  <url>
+    <loc>https://www.swiftshiningpath.com/contact.html</loc>
+    
+    <image:image>
+      <image:loc>https://www.swiftshiningpath.com/assets/images/logo.png</image:loc>
+      <image:title>Contact Swift Shining Path Limited</image:title>
+      <image:caption>Get in touch with Swift Shining Path for logistics solutions in Nigeria</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
+

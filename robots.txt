@@ -1,0 +1,130 @@
+# robots.txt for Swift Shining Path Limited
+# Optimized for Maximum SEO Visibility & Search Engine Crawling
+# Last Updated: October 2025
+
+# =============================================================
+# ALLOW ALL MAJOR SEARCH ENGINE BOTS - FULL ACCESS
+# =============================================================
+
+# Google Bot (Most Important)
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Google Image Bot
+User-agent: Googlebot-Image
+Allow: /
+
+# Google Mobile Bot
+User-agent: Googlebot-Mobile
+Allow: /
+
+# Bing Bot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+# Yandex Bot
+User-agent: Yandex
+Allow: /
+
+# Baidu Bot (Chinese Search Engine)
+User-agent: Baiduspider
+Allow: /
+
+# DuckDuckGo Bot
+User-agent: DuckDuckBot
+Allow: /
+
+# Yahoo Bot
+User-agent: Slurp
+Allow: /
+
+# =============================================================
+# ALLOW AI TRAINING & CONTENT AGGREGATION
+# =============================================================
+
+# OpenAI GPT Bot
+User-agent: GPTBot
+Allow: /
+
+# Google AI Bot (Gemini/Bard)
+User-agent: Google-Extended
+Allow: /
+
+# Anthropic Claude Bot
+User-agent: anthropic-ai
+Allow: /
+
+# Common Crawl Bot
+User-agent: CCBot
+Allow: /
+
+# =============================================================
+# ALL OTHER BOTS
+# =============================================================
+
+User-agent: *
+Allow: /
+
+# =============================================================
+# DISALLOW SENSITIVE & NON-PUBLIC PATHS
+# =============================================================
+
+# Administrative Areas
+Disallow: /admin/
+Disallow: /login/
+Disallow: /dashboard/
+Disallow: /private/
+Disallow: /backend/
+Disallow: /api/
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+Disallow: /config/
+Disallow: /includes/
+Disallow: /db/
+
+# Temporary & System Files (if applicable)
+Disallow: /tmp/
+Disallow: /temp/
+Disallow: /*.log$
+Disallow: /*.sql$
+Disallow: /*.zip$
+
+# =============================================================
+# ALLOW IMPORTANT RESOURCES FOR SEO
+# =============================================================
+
+# Allow CSS for proper page rendering in Google Search
+Allow: /assets/css/
+Allow: /*.css$
+
+# Allow JavaScript for proper page functionality
+Allow: /assets/js/
+Allow: /*.js$
+
+# Allow Images for Google Image Search
+Allow: /assets/images/
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$
+
+# =============================================================
+# SITEMAP LOCATIONS
+# =============================================================
+
+Sitemap: https://www.swiftshiningpath.com/sitemap.xml
+Sitemap: https://www.swiftshiningpath.com/sitemap-images.xml
+
+# =============================================================
+# CRAWL OPTIMIZATION NOTES
+# =============================================================
+# - No crawl-delay for major search engines (faster indexing)
+# - All static assets allowed for proper page rendering
+# - AI training bots allowed for maximum content visibility
+# - Backend and sensitive paths protected
+# =============================================================
+

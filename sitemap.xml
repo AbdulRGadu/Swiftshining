@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+        http://www.google.com/schemas/sitemap-image/1.1
+        http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
+  <!-- 
+    =====================================================================
+    SWIFT SHINING PATH LIMITED - OPTIMIZED XML SITEMAP
+    =====================================================================
+    Purpose: Maximum Search Engine Visibility & Indexing
+    Last Updated: October 16, 2025
+    Pages: 4 main pages + image metadata
+    =====================================================================
+  -->
+
+  <!-- ===== HOMEPAGE - HIGHEST PRIORITY ===== -->
+  <url>
+    <loc>https://www.swiftshiningpath.com/</loc>
+    <lastmod>2025-10-16T12:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.swiftshiningpath.com/assets/images/logo.png</image:loc>
+      <image:title>Swift Shining Path Limited - Logistics Company Logo</image:title>
+      <image:caption>Leading logistics and supply chain management company in Nigeria</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.swiftshiningpath.com/assets/images/logo-text.png</image:loc>
+      <image:title>Swift Shining Path Limited - Company Brand</image:title>
+    </image:image>
+  </url>
+
+  <!-- Alternative Homepage URL (with index.html) -->
+  <url>
+    <loc>https://www.swiftshiningpath.com/index.html</loc>
+    <lastmod>2025-10-16T12:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ===== SERVICES PAGE - VERY HIGH PRIORITY ===== -->
+  <url>
+    <loc>https://www.swiftshiningpath.com/services.html</loc>
+    <lastmod>2025-10-16T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- ===== ABOUT PAGE - HIGH PRIORITY ===== -->
+  <url>
+    <loc>https://www.swiftshiningpath.com/about.html</loc>
+    <lastmod>2025-10-16T12:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- ===== CONTACT PAGE - IMPORTANT FOR CONVERSIONS ===== -->
+  <url>
+    <loc>https://www.swiftshiningpath.com/contact.html</loc>
+    <lastmod>2025-10-16T12:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
+
